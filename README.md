@@ -12,6 +12,9 @@ O objetivo deste projeto é criar uma assistente de voz multi-idiomas que auxíl
  Como diferencial neste projeto, durante a aula foi proposto utilizar de uma variável para capitar o idioma desejado para depois falar.
  No meu código, retirei está variável, assim permitindo ao programa capitar o idioma e perguntar ao chatGPT, sem restrição. 
 
+ # Necessário
+  Para utilizar o programa é necessário você tem crédito gratis ou está pagando o CHAGPT. 
+
  # LINK
   https://colab.research.google.com/drive/183rW59FJj6KDOx6Q8_CqA3tBdI3WAObu#scrollTo=7wt7K280SSNp
 
